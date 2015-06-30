@@ -6,7 +6,7 @@
 
 More details are here: [WEBSITE LINK](http://example.com/).
 
-Java 7 or higher is required.
+Java 8 or higher is required.
 
 The `com.chrisrebert.github` package presents an object-oriented interface to the GitHub API:
 
