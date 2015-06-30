@@ -1,9 +1,12 @@
+typed-github
+============
 [![Build Status](https://travis-ci.org/cvrebert/typed-github.svg?branch=master)](https://travis-ci.org/cvrebert/typed-github)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.chrisrebert/typed-github/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.chrisrebert/typed-github)
 [![JavaDoc](https://img.shields.io/badge/javadoc-html-blue.svg)](http://www.javadoc.io/doc/com.chrisrebert/typed-github)
 ![Development Status :: 4 - Beta](https://img.shields.io/badge/maturity-stable-yellow.svg "Development Status :: 4 - Beta")
 [![BSD 3-clause "New"/"Revised" License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://github.com/cvrebert/typed-github/blob/master/LICENSE.txt)
 
+typed-github is a well-typed Scala library for using GitHub's API.
 More details are here: [WEBSITE LINK](http://example.com/).
 
 Java 8 or higher is required.
