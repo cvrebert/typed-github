@@ -2,7 +2,7 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.chrisrebert/typed-github/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.chrisrebert/typed-github)
 [![JavaDoc](https://img.shields.io/badge/javadoc-html-blue.svg)](http://www.javadoc.io/doc/com.chrisrebert/typed-github)
 ![Development Status :: 4 - Beta](https://img.shields.io/badge/maturity-stable-yellow.svg "Development Status :: 4 - Beta")
-[![BSD 3-clause "New" or "Revised" License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://github.com/cvrebert/typed-github/blob/master/LICENSE.txt)
+[![BSD 3-clause "New"/"Revised" License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://github.com/cvrebert/typed-github/blob/master/LICENSE.txt)
 
 More details are here: [WEBSITE LINK](http://example.com/).
 
@@ -73,3 +73,9 @@ In order to run only the static analysis checks, use this:
 ```
 $ mvn clean install -DskipTests -Dinvoker.skip=true -Pqulice
 ```
+
+## License
+typed-github is licensed under the [BSD 3-clause "New"/"Revised" License](https://github.com/cvrebert/lmvtfy/blob/master/LICENSE.txt).
+
+## Acknowledgments
+typed-github was [forked](https://github.com/cvrebert/typed-github/commit/55f0287ceee12ab1749ae534b0cd0d8df1ce3027) from [jcabi-github](https://github.com/jcabi/jcabi-github) after [commit `3faa077`](https://github.com/jcabi/jcabi-github/commit/3faa077d5f62fa719376fe288ab2d410dc16721a). We thank the jcabi contributors for laying a well-tested foundation to build upon.
