@@ -1,3 +1,4 @@
+Copyright (c) 2015, Christopher Rebert
 Copyright (c) 2013-2015, jcabi.com
 All rights reserved.
 
