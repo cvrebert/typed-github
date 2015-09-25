@@ -78,7 +78,7 @@ $ mvn clean install -DskipTests -Dinvoker.skip=true -Pqulice
 ```
 
 ## License
-typed-github is licensed under the [BSD 3-clause "New"/"Revised" License](https://github.com/cvrebert/lmvtfy/blob/master/LICENSE.txt).
+typed-github is licensed under the [BSD 3-clause "New"/"Revised" License](https://github.com/cvrebert/typed-github/blob/master/LICENSE.txt).
 
 ## Acknowledgments
 typed-github was [forked](https://github.com/cvrebert/typed-github/commit/55f0287ceee12ab1749ae534b0cd0d8df1ce3027) from [jcabi-github](https://github.com/jcabi/jcabi-github) after [commit `3faa077`](https://github.com/jcabi/jcabi-github/commit/3faa077d5f62fa719376fe288ab2d410dc16721a). We thank the jcabi contributors for laying a well-tested foundation to build upon.
